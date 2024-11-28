@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "nombre":"Mate Esfera del dragón",
+        "precio":"100",
+        "imagen":"./img/productos/mate_3d_esfera_del_dragon.png",
+        "descripcion":"Mate impreso en 3D",
+        "stock":10
+    },
+    {
+        "id":2,
+        "nombre":"Mate Stitch",
+        "precio":"1000",
+        "imagen":"./img/productos/mate_stitch_3d.png",
+        "descripcion":"Mate impreso en 3D",
+        "stock":5
+    },
+    {
+        "id":3,
+        "nombre":"Taza glitter rosa frente blanco",
+        "precio":"10000",
+        "imagen":"./img/productos/taza_color_frente_blanco.png",
+        "descripcion":"Taza sublimable",
+        "stock":2
+    },
+    {
+        "id":4,
+        "nombre":"Identificación huesito",
+        "precio":"2600",
+        "imagen":"./img/productos/identificacion_huesito.png",
+        "descripcion":"Artículo sublimable",
+        "stock":2
+    },
+    {
+        "id":5,
+        "nombre":"Llavero 3d Jack",
+        "precio":"10000",
+        "imagen":"./img/productos/llavero_3d_jack.png",
+        "descripcion":"Llavero impreso en 3D",
+        "stock":2
+    },
+    {
+        "id":6,
+        "nombre":"Remeras padre e hija",
+        "precio":"10000",
+        "imagen":"./img/productos/remeras_combo_padre_hija.png",
+        "descripcion":"Remeras sublimadas",
+        "stock":2
+    },
+    {
+        "id":7,
+        "nombre":"Set de jardín",
+        "precio":"10000",
+        "imagen":"./img/productos/set_sublimado_jardin.png",
+        "descripcion":"Artículos sublimadas",
+        "stock":2
+    },
+    {
+        "id":8,
+        "nombre":"Mochila jardín",
+        "precio":"10000",
+        "imagen":"./img/productos/mochila_sublimable.png",
+        "descripcion":"Artículo sublimable",
+        "stock":2
+    }
+]
